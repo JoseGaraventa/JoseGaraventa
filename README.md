@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola mi nombre es Jose Garaventa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">🎯 Licenciado en Turismo en transición hacia el Análisis de Datos &#127470;&#127475</h3>
+<h3 align="center">🎯 Licenciado en Turismo en transición hacia el Análisis de Datos <span>&#127462;&#127479;</span> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -40,3 +40,4 @@ Soy un profesional del turismo que descubrió una pasión por el análisis de da
       </div>
 
 </p>
+
