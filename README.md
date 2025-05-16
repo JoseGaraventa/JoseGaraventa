@@ -2,9 +2,6 @@
 
 <h3 align="center">🎯 Licenciado en Turismo en transición hacia el Análisis de Datos <span>&#127462;&#127479;</span> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-
 
 - 💼 **Actualmente estoy trabajando en:**  
   Mejorar mis habilidades en análisis de datos y visualización, desarrollando dashboards en Power BI y Tableau con datos vinculados al turismo y la hotelería.
